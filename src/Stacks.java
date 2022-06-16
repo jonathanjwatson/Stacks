@@ -26,5 +26,7 @@ public class Stacks {
 
 		System.out.println(myStack.empty());
 
+		System.out.println("Hello from the dev branch!");
+
 	}
 }
